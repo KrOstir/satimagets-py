@@ -7,7 +7,9 @@ Everything that gives [continuumio/anaconda3
 
 * [GDAL](http://www.gdal.org/)
 * [rasterio](https://mapbox.github.io/rasterio/)
-* 
+* [Shapely](https://github.com/Toblerity/Shapely)
+* [psycopg2](https://www.psycopg.org)
+
 The Anaconda distribution is installed into the `/opt/conda` folder and ensures that the default user has the `conda` command in their path.
 
 
